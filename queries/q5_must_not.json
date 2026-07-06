@@ -1,0 +1,10 @@
+{
+  "size": 50,
+  "query": {
+    "bool": {
+      "must_not": [
+        { "term": { "genre": "Dystopian" } }
+      ]
+    }
+  }
+}

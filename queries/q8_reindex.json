@@ -1,0 +1,8 @@
+{
+  "source": { "index": "library" },
+  "dest":   { "index": "library_v2" },
+  "script": {
+    "lang": "painless",
+    "source": "ctx._source.edition = 'Original'"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "query": {
+    "bool": {
+      "must": [
+        { "term": { "genre": "Dystopian" } },
+        { "range": { "rating": { "gt": 4.5 } } }
+      ]
+    }
+  }
+}

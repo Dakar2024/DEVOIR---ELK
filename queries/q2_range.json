@@ -1,0 +1,8 @@
+{
+  "size": 50,
+  "query": {
+    "range": {
+      "publication_year": { "gt": "1950" }
+    }
+  }
+}

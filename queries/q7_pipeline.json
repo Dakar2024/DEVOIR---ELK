@@ -1,0 +1,11 @@
+{
+  "description": "Ajoute popularity_tag selon la note (rating)",
+  "processors": [
+    {
+      "script": {
+        "lang": "painless",
+        "source": "if (ctx.rating > 4.8) { ctx.popularity_tag = 'Best Seller' } else if (ctx.rating >= 4.5) { ctx.popularity_tag = 'Popular' } else { ctx.popularity_tag = 'Regular' }"
+      }
+    }
+  ]
+}

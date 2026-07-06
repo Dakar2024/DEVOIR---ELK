@@ -1,0 +1,12 @@
+{
+  "size": 50,
+  "query": {
+    "bool": {
+      "should": [
+        { "term": { "availability": "Available" } },
+        { "range": { "rating": { "gt": 4.7 } } }
+      ],
+      "minimum_should_match": 1
+    }
+  }
+}

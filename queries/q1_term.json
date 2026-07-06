@@ -1,0 +1,10 @@
+{
+  "query": {
+    "bool": {
+      "filter": [
+        { "term": { "genre": "Science Fiction" } },
+        { "term": { "availability": "Available" } }
+      ]
+    }
+  }
+}

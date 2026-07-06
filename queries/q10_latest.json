@@ -1,0 +1,8 @@
+{
+  "source": { "index": "library" },
+  "latest": {
+    "unique_key": [ "author" ],
+    "sort": "publication_year"
+  },
+  "dest": { "index": "latest_book_per_author" }
+}

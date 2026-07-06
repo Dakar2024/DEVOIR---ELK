@@ -1,0 +1,15 @@
+{
+  "source": {
+    "index": "library",
+    "query": { "term": { "availability": "Available" } }
+  },
+  "pivot": {
+    "group_by": {
+      "genre": { "terms": { "field": "genre" } }
+    },
+    "aggregations": {
+      "available_books": { "value_count": { "field": "genre" } }
+    }
+  },
+  "dest": { "index": "books_available_by_genre" }
+}

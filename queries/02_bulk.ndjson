@@ -1,0 +1,40 @@
+{"index": {"_index": "library", "_id": "1"}}
+{"title": "Dune", "author": "Frank Herbert", "publication_year": "1965", "genre": "Science Fiction", "rating": 4.8, "availability": "Available", "@timestamp": "2024-09-30T10:00:00Z"}
+{"index": {"_index": "library", "_id": "2"}}
+{"title": "1984", "author": "George Orwell", "publication_year": "1949", "genre": "Dystopian", "rating": 4.6, "availability": "Checked Out", "@timestamp": "2024-09-30T11:00:00Z"}
+{"index": {"_index": "library", "_id": "3"}}
+{"title": "The Hobbit", "author": "J.R.R. Tolkien", "publication_year": "1937", "genre": "Fantasy", "rating": 4.7, "availability": "Available", "@timestamp": "2024-09-30T12:00:00Z"}
+{"index": {"_index": "library", "_id": "4"}}
+{"title": "To Kill a Mockingbird", "author": "Harper Lee", "publication_year": "1960", "genre": "Fiction", "rating": 4.9, "availability": "Available", "@timestamp": "2024-09-30T13:00:00Z"}
+{"index": {"_index": "library", "_id": "5"}}
+{"title": "Brave New World", "author": "Aldous Huxley", "publication_year": "1932", "genre": "Dystopian", "rating": 4.5, "availability": "Checked Out", "@timestamp": "2024-09-30T14:00:00Z"}
+{"index": {"_index": "library", "_id": "6"}}
+{"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "publication_year": "1925", "genre": "Fiction", "rating": 4.4, "availability": "Available", "@timestamp": "2024-09-30T15:00:00Z"}
+{"index": {"_index": "library", "_id": "7"}}
+{"title": "Moby Dick", "author": "Herman Melville", "publication_year": "1851", "genre": "Fiction", "rating": 4.1, "availability": "Available", "@timestamp": "2024-09-30T16:00:00Z"}
+{"index": {"_index": "library", "_id": "8"}}
+{"title": "Pride and Prejudice", "author": "Jane Austen", "publication_year": "1813", "genre": "Romance", "rating": 4.9, "availability": "Checked Out", "@timestamp": "2024-09-30T17:00:00Z"}
+{"index": {"_index": "library", "_id": "9"}}
+{"title": "The Catcher in the Rye", "author": "J.D. Salinger", "publication_year": "1951", "genre": "Fiction", "rating": 4.3, "availability": "Available", "@timestamp": "2024-09-30T18:00:00Z"}
+{"index": {"_index": "library", "_id": "10"}}
+{"title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "publication_year": "1954", "genre": "Fantasy", "rating": 4.9, "availability": "Available", "@timestamp": "2024-09-30T19:00:00Z"}
+{"index": {"_index": "library", "_id": "11"}}
+{"title": "Harry Potter and the Philosopher's Stone", "author": "J.K. Rowling", "publication_year": "1997", "genre": "Fantasy", "rating": 4.7, "availability": "Checked Out", "@timestamp": "2024-09-30T20:00:00Z"}
+{"index": {"_index": "library", "_id": "12"}}
+{"title": "The Shining", "author": "Stephen King", "publication_year": "1977", "genre": "Horror", "rating": 4.6, "availability": "Available", "@timestamp": "2024-09-30T21:00:00Z"}
+{"index": {"_index": "library", "_id": "13"}}
+{"title": "Frankenstein", "author": "Mary Shelley", "publication_year": "1818", "genre": "Horror", "rating": 4.5, "availability": "Available", "@timestamp": "2024-09-30T22:00:00Z"}
+{"index": {"_index": "library", "_id": "14"}}
+{"title": "Dracula", "author": "Bram Stoker", "publication_year": "1897", "genre": "Horror", "rating": 4.4, "availability": "Checked Out", "@timestamp": "2024-09-30T23:00:00Z"}
+{"index": {"_index": "library", "_id": "15"}}
+{"title": "War and Peace", "author": "Leo Tolstoy", "publication_year": "1869", "genre": "Historical Fiction", "rating": 4.3, "availability": "Available", "@timestamp": "2024-10-01T00:00:00Z"}
+{"index": {"_index": "library", "_id": "16"}}
+{"title": "The Odyssey", "author": "Homer", "publication_year": "-800", "genre": "Epic", "rating": 4.7, "availability": "Available", "@timestamp": "2024-10-01T01:00:00Z"}
+{"index": {"_index": "library", "_id": "17"}}
+{"title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "publication_year": "1866", "genre": "Philosophical Fiction", "rating": 4.8, "availability": "Available", "@timestamp": "2024-10-01T02:00:00Z"}
+{"index": {"_index": "library", "_id": "18"}}
+{"title": "The Brothers Karamazov", "author": "Fyodor Dostoevsky", "publication_year": "1880", "genre": "Philosophical Fiction", "rating": 4.9, "availability": "Checked Out", "@timestamp": "2024-10-01T03:00:00Z"}
+{"index": {"_index": "library", "_id": "19"}}
+{"title": "Anna Karenina", "author": "Leo Tolstoy", "publication_year": "1877", "genre": "Romance", "rating": 4.7, "availability": "Available", "@timestamp": "2024-10-01T04:00:00Z"}
+{"index": {"_index": "library", "_id": "20"}}
+{"title": "Les Misérables", "author": "Victor Hugo", "publication_year": "1862", "genre": "Historical Fiction", "rating": 4.9, "availability": "Available", "@timestamp": "2024-10-01T05:00:00Z"}
