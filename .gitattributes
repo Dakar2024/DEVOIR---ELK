@@ -1,0 +1,13 @@
+# Normalisation des fins de ligne
+* text=auto
+
+# Les scripts shell doivent garder des fins de ligne LF (execution sous Linux)
+*.sh text eol=lf
+
+# Fichiers de donnees Elasticsearch : LF egalement
+*.json text eol=lf
+*.ndjson text eol=lf
+
+# Fichiers binaires : ne pas toucher
+*.png binary
+*.pdf binary
